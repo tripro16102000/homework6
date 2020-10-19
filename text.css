@@ -1,0 +1,90 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.dong_1 {
+    width: 100%;
+    background-color: burlywood;
+    height: 15px;
+    margin-top: 20px;
+
+}
+
+.dong_1  {
+    font-size: 10px;
+    color: darkgreen;
+    padding: 0px;
+
+}
+
+
+.dong_2 {
+    width: 100%;
+    background-color: burlywood;
+    height: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.dong_2  {
+    font-size: 20px;
+    color: darkgreen;
+    display: flex;
+    justify-content: center;
+}
+
+.dong_3 {
+    width: 100%;
+    background-color: burlywood;
+    height: 20px;
+    margin-bottom: 20px;
+    padding: 0;
+
+}
+
+.dong_3  {
+    font-size: 20px;
+    color: darkgreen;
+    display: flex;
+    justify-content: center;
+    text-transform: uppercase;
+}
+
+.dong_4 {
+    width: 100%;
+    background-color: burlywood;
+    height: 30px;
+
+
+}
+
+.dong_4  {
+    font-size: 30px;
+    color: darkgreen;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+
+}
+
+.dong_5 {
+    width: 100%;
+    background-color: burlywood;
+    height: 30px;
+    margin-bottom: 20px;
+
+}
+
+.dong_5 {
+    font-size: 15px;
+    color: darkgreen;
+    display: flex;
+    justify-content: center;
+    font-weight: 600;
+}
+
+/* bai 2 */
+
+

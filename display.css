@@ -1,0 +1,26 @@
+/* yeucau1 */
+div{
+    background: red;
+    width: 50px;
+  }
+
+/* yeucau2 */
+
+#span1{
+  background: red;
+}
+#span2{
+  background:yellow;
+  display: inline-flex;
+  width:500px;
+} 
+
+/* yeucau3 */
+
+span{
+  background: red;
+}
+div{
+  background: blue;
+  display: inline-flex;
+}
